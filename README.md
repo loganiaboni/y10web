@@ -43,6 +43,7 @@ a:active {
     <p><b><a href="https://www.youtube.com/watch?v=3PgNPc-iFW8" target="_blank">Jingle Bells</a></b></p>
     <p><b><a href="https://www.youtube.com/watch?v=k6zW225k_O0" target="_blank">Frosty the Snowman</a></b></p>
     <p><b><a href="https://www.youtube.com/watch?v=0byH9h1ClBY" target="_blank">rudolph the red nosed reindeer</a></b></p>
+    <p><b><a href="https://loganiaboni.github.io/y10web/tabtime.html" target="_blank">My time table</a></b></p>
     
     <img
     src="christmas-tree.png">
